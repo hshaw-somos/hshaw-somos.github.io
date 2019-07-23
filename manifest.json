@@ -1,6 +1,6 @@
 {
-   "short_name": "React App",
-   "name": "Create React App Sample",
+   "short_name": "Somos",
+   "name": "Somos",
    "icons": [
       {
          "src": "favicon.ico",
@@ -9,7 +9,7 @@
       }
    ],
    "start_url": ".",
-   "display": "standalone",
-   "theme_color": "#000000",
-   "background_color": "#ffffff"
+   "display": "browser",
+   "theme_color": "#3f4a75",
+   "background_color": "#f4f4f4"
 }
